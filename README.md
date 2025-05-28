@@ -1,7 +1,7 @@
 <!-- README.md -->
 <h1 align="center">Hi there 👋, I'm <YourName>!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=00F7FF&vCenter=true&width=435&lines=I+build+cool+stuff+💻;I+love+clean+UI+%26+clever+UX+🎨;React+%7C+Tailwind+%7C+Node+%7C+C%23+⚙️;Always+learning+new+things+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=00F7FF&vCenter=true&width=435&lines=I+build+cool+stuff+💻;I+am+a+noob+at+cooding💩;I+love+clean+UI+%26+clever+UX+🎨;React+%7C+Tailwind+%7C+Node+%7C+C%23+⚙️;Always+learning+new+things+📚" alt="Typing SVG" />
 </p>
 
 ---
