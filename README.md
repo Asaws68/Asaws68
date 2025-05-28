@@ -25,7 +25,7 @@
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://fakecrime.bio" target="_blank"><img src="https://img.shields.io/badge/Website-00aaff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://fakecrime.bio" target="_blank"><img src="https://img.shields.io/badge/Bio-00aaff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
